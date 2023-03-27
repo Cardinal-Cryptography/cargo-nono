@@ -1,5 +1,5 @@
 [package]
-name = "cargo-nono"
+name = "aleph-zero-cargo-nono"
 version = "0.1.9"
 authors = ["Maximilian Goisser <goisser94@gmail.com>"]
 description = "Detect (possible) no_std compatibility of your crate and dependencies"

@@ -1,2 +1,8 @@
 /target
 **/*.rs.bk
+
+# IDEs
+**/.idea
+/.vscode
+.projectile
+*.swp
